@@ -84,18 +84,18 @@ To assemble these parts, you will also need the following components:
 
 ### System Assembly
 
-To build the complete system, you will need at least one manipulator and six actuators. In addition, the following materials are required
+To build the complete system, you will need at least one manipulator and six actuators. In addition, the following materials are required.
 
 | Item | Specification | Quantity | Notes |
 |------|---------------|----------|-------|
 | PVC tube | 4mm*2.5mm | as needed | - |
 | T-type connectors | Suit for 4 mm tubing diameter | as needed | optional |
 
-To drive each degree of freedom, connect PVC tube between the end of the pneumatic actuator and the front end of the syringe. Then fill the closed cavity formed by the syringe, tubing, and actuator with purified water, ensuring that all air is removed. When the actuator is in the retracted state, the syringe plunger should be fully extended to achieve the maximum stroke.
+To drive each degree of freedom, connect PVC tube between the end of the push rod and the front end of the syringe. Then fill the closed cavity formed by the syringe, tubing, and push rod with purified water, ensuring that all air is removed. When the push rod is in the retracted state, the syringe plunger should be fully extended to achieve the maximum stroke.
 
-In addition, you can use a T-type connector to assign two actuators to a single pneumatic rod, enabling hybrid control.
+In addition, you can use a T-type connector to assign two actuators to a single push rod, enabling hybrid control.
 
-Finally, to drive the Dynamixel servos, you will need the following materials. Please refer to the [official manual](https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/) for proper connection and control of the servos.
+Finally, to drive the Dynamixel servos, you will need the following components. Please refer to the [official manual](https://emanual.robotis.com/docs/en/dxl/x/xl330-m288/) for proper connection and control of the servos.
 
 | Item | Specification | Quantity | Link |
 |------|---------------|----------|------|
